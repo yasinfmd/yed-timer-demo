@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yed-timer-demo/static/css/main.f7cd2ea1.chunk.css",
+    "main.js": "/yed-timer-demo/static/js/main.e8f68911.chunk.js",
+    "main.js.map": "/yed-timer-demo/static/js/main.e8f68911.chunk.js.map",
+    "runtime-main.js": "/yed-timer-demo/static/js/runtime-main.5f5c7bb8.js",
+    "runtime-main.js.map": "/yed-timer-demo/static/js/runtime-main.5f5c7bb8.js.map",
+    "static/css/2.d6b0cf4f.chunk.css": "/yed-timer-demo/static/css/2.d6b0cf4f.chunk.css",
+    "static/js/2.ee626653.chunk.js": "/yed-timer-demo/static/js/2.ee626653.chunk.js",
+    "static/js/2.ee626653.chunk.js.map": "/yed-timer-demo/static/js/2.ee626653.chunk.js.map",
+    "index.html": "/yed-timer-demo/index.html",
+    "precache-manifest.c6d7b182e36b523270ca3b4a23ebde31.js": "/yed-timer-demo/precache-manifest.c6d7b182e36b523270ca3b4a23ebde31.js",
+    "service-worker.js": "/yed-timer-demo/service-worker.js",
+    "static/css/2.d6b0cf4f.chunk.css.map": "/yed-timer-demo/static/css/2.d6b0cf4f.chunk.css.map",
+    "static/css/main.f7cd2ea1.chunk.css.map": "/yed-timer-demo/static/css/main.f7cd2ea1.chunk.css.map",
+    "static/js/2.ee626653.chunk.js.LICENSE.txt": "/yed-timer-demo/static/js/2.ee626653.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f5c7bb8.js",
+    "static/css/2.d6b0cf4f.chunk.css",
+    "static/js/2.ee626653.chunk.js",
+    "static/css/main.f7cd2ea1.chunk.css",
+    "static/js/main.e8f68911.chunk.js"
+  ]
+}
